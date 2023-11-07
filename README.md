@@ -1,6 +1,5 @@
-# {{REPO TITLE}}
-{{REPO DESCRIPTION}}
+# .github
+All files that have to go in our "special" repository
 
 ## LICENSE
-{{sub-project-licenses}}
-Everything else is under the [MIT LICENSE](/LICENSE)
+under the [MIT LICENSE](/LICENSE)
